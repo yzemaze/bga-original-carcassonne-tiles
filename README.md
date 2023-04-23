@@ -10,7 +10,9 @@ Yes, but some of them are missing.
 
 When the Princess and Dragons extension was added to the website, Board Game Arena included support to play the game with either the original/old-style tiles or the newer tiles with the blue roofs. However, they were unable to include the old-style tiles for the Princess and Dragons extension.
 
-**This script brings those missing tiles to the game together with some small improved graphics**
+**This script brings those missing tiles to the game together with some small improved graphics.**
+
+It works for replays, too!
 
 ### How do I use the script?
 
