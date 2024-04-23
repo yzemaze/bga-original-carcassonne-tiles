@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         BGA Original Carcassone Tiles
+// @name         BGA Carcassone Original Tiles
 // @description  Displays the original carcassone tiles in boardgamearena.com when selecting the "Latest" "Artwork edition" from the playing menu.
 // @version      1.3
 // @author       yzemaze
