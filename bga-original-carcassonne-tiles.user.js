@@ -8,7 +8,4 @@
 // @grant        GM_addStyle
 // ==/UserScript==
 
-(function() {
-    'use strict';
-    GM_addStyle (".second_edition { background-image: url('https://raw.githubusercontent.com/yzemaze/bga-original-carcassonne-tiles/master/img/original-tiles.jpg') !important; }");
-})();
+GM_addStyle (".second_edition { background-image: url('https://raw.githubusercontent.com/yzemaze/bga-original-carcassonne-tiles/master/img/original-tiles.jpg') !important; }");
